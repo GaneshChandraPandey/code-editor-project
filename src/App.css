@@ -35,8 +35,8 @@ footer a {
 }
 
 .homePageLogo {
-    height: 80px;
-    margin-bottom: 30px;
+    height: 160px;
+    margin-bottom: 0px;
 }
 
 .inputBox {
@@ -129,7 +129,7 @@ footer a:hover {
 }
 
 .logoImage {
-    height: 60px;
+    height: 70px;
 }
 
 .leaveBtn {

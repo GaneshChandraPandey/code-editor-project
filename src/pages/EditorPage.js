@@ -105,7 +105,7 @@ import {
                     <div className="logo">
                         <img
                             className="logoImage"
-                            src="/code-sync.png"
+                            src="/code-wave.png"
                             alt="logo"
                         />
                     </div>
